@@ -15,7 +15,7 @@ integrate AI APIs to provide smart insights or summary reports from the uploaded
       <a href="https://github.com/Nagasai0612">
         <img src="https://github.com/Nagasai0612.png" width="100" style="border-radius: 50%;" alt="ALAGURAMANATHANR"/>
         <br />
-        <sub><b>ALAGURAMANATHANR</b></sub>
+        <sub><b>Nagasai</b></sub>
       </a>
       <br />
     </td>
