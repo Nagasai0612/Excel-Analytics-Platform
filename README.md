@@ -12,8 +12,8 @@ integrate AI APIs to provide smart insights or summary reports from the uploaded
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ALAGURAMANATHANR">
-        <img src="https://github.com/ALAGURAMANATHANR.png" width="100" style="border-radius: 50%;" alt="ALAGURAMANATHANR"/>
+      <a href="https://github.com/Nagasai0612">
+        <img src="https://github.com/Nagasai0612.png" width="100" style="border-radius: 50%;" alt="ALAGURAMANATHANR"/>
         <br />
         <sub><b>ALAGURAMANATHANR</b></sub>
       </a>
